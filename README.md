@@ -3,6 +3,9 @@
 A Python GUI tool to **move files from one folder to another** based on filename similarity (fuzzy matching).  
 Supports recursive scanning, adjustable similarity threshold, and ignoring file extensions.
 
+<img width="737" height="641" alt="image" src="https://github.com/user-attachments/assets/f039997f-c89c-45aa-91da-7a2b165bc937" />
+
+
 ---
 
 ## Features
